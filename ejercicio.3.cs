@@ -4,6 +4,8 @@ class HelloWorld
   static void Main() 
   
   {
+      //Programa que muestre los primeros 10 números pares a partir del producto de (10 x 10).
+
        double n1 = 10;
             double n2 = 10;
             double Mult;
